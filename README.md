@@ -20,3 +20,11 @@ go mod tidy
 go fmt
 go run fibonacci.go
 ```
+
+# Wrap Middleware
+
+using closure to wrap a middleware
+
+# Passing private dataset
+
+Using closure to pass private dataset to a function
